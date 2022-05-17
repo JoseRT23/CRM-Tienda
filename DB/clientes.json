@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "62043a18fbdeac43937ba6d9"
+  },
+  "nombre": "Maria Paula",
+  "apellido": "Engativá",
+  "empresa": "Udemy",
+  "email": "pdengativa16@gmail.com",
+  "telefono": "3212259804",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644444184651"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1645203561803"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62046482fbdeac43937ba6fc"
+  },
+  "nombre": "Margarita",
+  "apellido": "Gutierrez Astroz",
+  "empresa": "Netflix",
+  "email": "margg@gmail.com",
+  "telefono": "3138500009",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644455042310"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1644971114535"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62056e2b90b86f0344369a41"
+  },
+  "nombre": "Jose Alirio",
+  "apellido": "Torres Gallego",
+  "empresa": "Ecopetrol",
+  "email": "alirito@gmail.com",
+  "telefono": "3203219927",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644523051508"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1644527193967"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62114d803d6ad60a757c7094"
+  },
+  "nombre": "Salome",
+  "apellido": "Bueno",
+  "empresa": "Razer",
+  "email": "salome@gmail.com",
+  "telefono": "3219032512",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1645301120035"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1645301120035"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "623e78c26624df40a4e296b2"
+  },
+  "nombre": "Jose",
+  "apellido": "Torres",
+  "empresa": "Mayasoft",
+  "email": "joser16torres@gmail.com",
+  "telefono": "3219032512",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648261314761"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648261314761"
+    }
+  }
+}]

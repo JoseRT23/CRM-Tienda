@@ -1,0 +1,47 @@
+:root {
+    --dangerButtons: #F44336;
+    --warningButtons: #F9A825;
+}
+
+.btn-danger {
+    background-color: var(--dangerButtons);
+    border-color: 1px solid var(--dangerButtons);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn-danger:hover {
+    background-color: var(--dangerButtons);
+    border-color: 1px solid var(--dangerButtons);
+}
+
+.btn-warning {
+    background-color: var(--warningButtons);
+    border-color: 1px solid var(--warningButtons);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn-warning:hover {
+    background-color: var(--warningButtons);
+    border-color: 1px solid var(--warningButtons);
+    color: white;
+}
+
+.actionsContainer {
+    justify-content: center;
+}
+
+.badge-success {
+    background-color: #28a745;
+    padding: 0.25em 0.4em;
+    border: none;
+}
+
+.badge-danger {
+    background-color: red;
+    padding: 0.25em 0.4em;
+    border: none;
+}

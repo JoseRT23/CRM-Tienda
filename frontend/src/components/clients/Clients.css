@@ -1,0 +1,36 @@
+:root {
+    --dangerButtons: #F44336;
+    --warningButtons: #F9A825;
+    --primaryButtons: #0D47A1;
+}
+
+.btn-danger {
+    background-color: var(--dangerButtons);
+    border-color: 1px solid var(--dangerButtons);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn-danger:hover {
+    background-color: var(--dangerButtons);
+    border-color: 1px solid var(--dangerButtons);
+}
+
+.btn-warning {
+    background-color: var(--warningButtons);
+    border-color: 1px solid var(--warningButtons);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn-warning:hover {
+    background-color: var(--warningButtons);
+    border-color: 1px solid var(--warningButtons);
+    color: white;
+}
+
+.buttonsContainer {
+    justify-content: space-around;
+}

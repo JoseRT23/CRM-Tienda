@@ -1,0 +1,15 @@
+form .form-control {
+    max-width: 480px;
+}
+
+.cont-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 920px) {
+    form .form-control {
+        width: 360px;
+    }
+}

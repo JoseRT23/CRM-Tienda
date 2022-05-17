@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "62031ba2f96fb993b8148932"
+  },
+  "nombre": "Camisa React JS",
+  "precio": 22000,
+  "imagen": "ozLs7W_wG.jpeg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644370850497"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648941838424"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620bbede0fff728d7c881a11"
+  },
+  "nombre": "Camisa JS",
+  "precio": 25000,
+  "imagen": "A7KJvRvL5.jpeg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644936926247"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1644936926247"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620bc54d0fff728d7c883293"
+  },
+  "nombre": "Camisa Node JS",
+  "precio": 20000,
+  "imagen": "dEaYWsn0S.jpeg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644938573760"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1644960501275"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620c1b48ea9a062565770f95"
+  },
+  "nombre": "Camisa Vue JS",
+  "precio": 19000,
+  "imagen": "nd5vKwPnp.jpeg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644960584481"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1645216113421"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620c1b78ea9a062565770fc1"
+  },
+  "nombre": "Camisa Github",
+  "precio": 15000,
+  "imagen": "LHQCzQXJ6.jpeg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644960632354"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1644960632354"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "620fb06582f855266f384bcb"
+  },
+  "nombre": "Camisa TypeScript",
+  "precio": 10000,
+  "imagen": "P_dTy2coT.jpeg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1645195365896"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1645195365896"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "623e78806624df40a4e296aa"
+  },
+  "nombre": "Camisa Sass",
+  "precio": 150000,
+  "imagen": "fMVJVz6rU.jpeg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648261248324"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648261268084"
+    }
+  }
+}]

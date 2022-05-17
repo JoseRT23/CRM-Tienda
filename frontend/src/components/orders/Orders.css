@@ -1,0 +1,53 @@
+.btn-danger {
+    background-color: var(--dangerButtons);
+    border-color: 1px solid var(--dangerButtons);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn-danger:hover {
+    background-color: var(--dangerButtons);
+    border-color: 1px solid var(--dangerButtons);
+}
+
+.btn-warning {
+    background-color: var(--warningButtons);
+    border-color: 1px solid var(--warningButtons);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn-warning:hover {
+    background-color: var(--warningButtons);
+    border-color: 1px solid var(--warningButtons);
+    color: white;
+}
+
+.buttonsContainer {
+    justify-content: space-around;
+}
+
+form .form-control {
+    width: 480px;
+}
+
+.cont-principal {
+    flex-direction: column;
+    align-items: center;
+}
+
+.articulos {
+    flex-direction: column;
+}
+
+.search  {
+    width: 260px !important;
+}
+
+@media (max-width: 920px) {
+    form .form-control {
+        width: 360px;
+    }
+}

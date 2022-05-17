@@ -1,0 +1,21 @@
+:root {
+    --primaryButtons: #0D47A1;
+}
+
+.btn-primary {
+    background-color: var(--primaryButtons);
+    border-color: 1px solid var(--primaryButtons);
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.btn-primary:hover {
+    background-color: var(--primaryButtons);
+    border-color: 1px solid var(--primaryButtons);
+}
+
+.list {
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

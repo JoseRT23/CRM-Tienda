@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "620fc603363ff5d603077587"
+  },
+  "cliente": {
+    "$oid": "62043a18fbdeac43937ba6d9"
+  },
+  "pedido": [
+    {
+      "producto": {
+        "$oid": "62031ba2f96fb993b8148932"
+      },
+      "cantidad": 2,
+      "_id": {
+        "$oid": "62031ba2f96fb993b8148932"
+      }
+    }
+  ],
+  "total": 40000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1645200899697"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1645200899697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "621158c43d6ad60a757c70fc"
+  },
+  "cliente": {
+    "$oid": "62114d803d6ad60a757c7094"
+  },
+  "pedido": [
+    {
+      "producto": {
+        "$oid": "620bc54d0fff728d7c883293"
+      },
+      "cantidad": 1,
+      "_id": {
+        "$oid": "620bc54d0fff728d7c883293"
+      }
+    },
+    {
+      "producto": {
+        "$oid": "62031ba2f96fb993b8148932"
+      },
+      "cantidad": 1,
+      "_id": {
+        "$oid": "62031ba2f96fb993b8148932"
+      }
+    },
+    {
+      "producto": {
+        "$oid": "620bbede0fff728d7c881a11"
+      },
+      "cantidad": 1,
+      "_id": {
+        "$oid": "620bbede0fff728d7c881a11"
+      }
+    }
+  ],
+  "total": 66000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1645304004328"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1645304004328"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "621183703d6ad60a757c7429"
+  },
+  "cliente": {
+    "$oid": "62056e2b90b86f0344369a41"
+  },
+  "pedido": [
+    {
+      "producto": {
+        "$oid": "620c1b48ea9a062565770f95"
+      },
+      "cantidad": 2,
+      "_id": {
+        "$oid": "620c1b48ea9a062565770f95"
+      }
+    },
+    {
+      "producto": {
+        "$oid": "620bc54d0fff728d7c883293"
+      },
+      "cantidad": 2,
+      "_id": {
+        "$oid": "620bc54d0fff728d7c883293"
+      }
+    },
+    {
+      "producto": {
+        "$oid": "620c1b78ea9a062565770fc1"
+      },
+      "cantidad": 1,
+      "_id": {
+        "$oid": "620c1b78ea9a062565770fc1"
+      }
+    }
+  ],
+  "total": 93000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1645314928204"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1645314928204"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "623e78d76624df40a4e296bb"
+  },
+  "cliente": {
+    "$oid": "623e78c26624df40a4e296b2"
+  },
+  "pedido": [
+    {
+      "producto": {
+        "$oid": "623e78806624df40a4e296aa"
+      },
+      "cantidad": 3,
+      "_id": {
+        "$oid": "623e78806624df40a4e296aa"
+      }
+    }
+  ],
+  "total": 450000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648261335583"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648261335583"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6248db81bb0262108e2bc9e4"
+  },
+  "cliente": {
+    "$oid": "623e78c26624df40a4e296b2"
+  },
+  "pedido": [
+    {
+      "producto": {
+        "$oid": "620bbede0fff728d7c881a11"
+      },
+      "cantidad": 2,
+      "_id": {
+        "$oid": "620bbede0fff728d7c881a11"
+      }
+    },
+    {
+      "producto": {
+        "$oid": "620bc54d0fff728d7c883293"
+      },
+      "cantidad": 2,
+      "_id": {
+        "$oid": "620bc54d0fff728d7c883293"
+      }
+    }
+  ],
+  "total": 90000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648941953748"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648941953748"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6282c9ff5354db5478eba9b0"
+  },
+  "cliente": {
+    "$oid": "62046482fbdeac43937ba6fc"
+  },
+  "pedido": [
+    {
+      "producto": {
+        "$oid": "62031ba2f96fb993b8148932"
+      },
+      "cantidad": 2,
+      "_id": {
+        "$oid": "62031ba2f96fb993b8148932"
+      }
+    }
+  ],
+  "total": 44000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652738559112"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652738559112"
+    }
+  }
+}]

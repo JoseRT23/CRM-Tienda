@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "623e779114edb2fb23085119"
+  },
+  "email": "joser16torres@gmail.com",
+  "nombre": "Jose",
+  "password": "$2b$12$a2iBgEYjWE/BtDT3jUTBeugHv6fzdAzp68M9DlWktYGCnhlcXcZkO",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648261009537"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1648261009537"
+    }
+  }
+}]
